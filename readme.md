@@ -1,3 +1,5 @@
-## Hello , Git
+## Welcome, git
 
--Im adding this from feature-branch
+-This is from 'brezzy'
+
+-Im adding this from 'feature-branch'
